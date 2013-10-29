@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<levelmap>
+	<rect>
+		<x1>100</x1>
+		<x2>100</x2>
+		<x3>200</x3>
+		<x4>200</x4>
+	</rect>
+</levelmap>

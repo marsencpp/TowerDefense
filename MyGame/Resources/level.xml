@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<levelmap>
+	<levelname>1</levelname>
+	<Width>480</Width>
+	<Height>720</Height>
+	<PixelsInMeter>100</PixelsInMeter>
+	<DesiredPercent>100</DesiredPercent>
+	<AvailableSlices>3</AvailableSlices>
+	<level>\                      \
+	</level>
+</levelmap>
